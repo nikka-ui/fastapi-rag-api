@@ -1,0 +1,11 @@
+My name is Nikka Cruz.
+I'm currently learning about cloud computing, AI, and DevOps.
+
+My career goal is to become a DevOps Engineer or an AI Engineer.
+I'm especially interested in e.g., automation, infrastructure as code, machine learning.
+
+I have experience with e.g., Python, JavaScript, AWS, Docker.
+I'm currently building projects on NextWork to grow my hands-on skills.
+
+For fun, I enjoy reading articles, and walking.
+A fun fact about me is I once one a student athlete, and compete national.
